@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miftah Hozuki</h1>
 <img align="right" alt="dev" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/156b9b116770475.6068beff48169.gif">
+
 - 🔭 I’m studying at [Poliyeay](https://polije.ac.id)
 
 - 🌱 I’m currently learning **javascript, react, react native**
