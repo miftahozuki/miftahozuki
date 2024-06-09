@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying at [Poliyeay](https://polije.ac.id)
 
-- 🌱 I’m currently learning **javascript, react, react native**
+- 🌱 I’m currently learning **javascript, php, python**
 
 - 💬 I'm natively speak **Indonesian**
 
